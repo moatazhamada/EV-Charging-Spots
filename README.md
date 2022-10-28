@@ -35,6 +35,3 @@ Create an android to show you near-by electric vehiclescharging spots.
 (Note that you may be asked to justifyyour choices after the task is reviewed).
 ● Please be prepared to answer questions regarding thework you provided and your approach to complete this project.
 ```
-## If you have any questions, feel free to email us,good luck :)
-
-
