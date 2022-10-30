@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+/apikey_staging.properties
+/apikey.properties

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/SpotsDetailsFragment">
+    <fragment
+        android:id="@+id/SpotsDetailsFragment"
+        android:name="com.moataz.ahoy.ev_charging_spots.presentation.spots.details.SpotsDetailsFragment"
+        android:label="@string/details_fragment_label"
+        tools:layout="@layout/fragment_spots_details">
+    </fragment>
+</navigation>
